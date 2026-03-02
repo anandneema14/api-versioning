@@ -1,0 +1,14 @@
+C:\Users\ananeema\source\repos\api-versioning\hashset\bin\Debug\net8.0\hashset.exe
+C:\Users\ananeema\source\repos\api-versioning\hashset\bin\Debug\net8.0\hashset.deps.json
+C:\Users\ananeema\source\repos\api-versioning\hashset\bin\Debug\net8.0\hashset.runtimeconfig.json
+C:\Users\ananeema\source\repos\api-versioning\hashset\bin\Debug\net8.0\hashset.dll
+C:\Users\ananeema\source\repos\api-versioning\hashset\bin\Debug\net8.0\hashset.pdb
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.AssemblyInfoInputs.cache
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.AssemblyInfo.cs
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.csproj.CoreCompileInputs.cache
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.dll
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\refint\hashset.dll
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.pdb
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\hashset.genruntimeconfig.cache
+C:\Users\ananeema\source\repos\api-versioning\hashset\obj\Debug\net8.0\ref\hashset.dll
